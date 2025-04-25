@@ -1,0 +1,169 @@
+available: true
+id: 2
+mainset:
+- names:
+  - name: Golden Sands
+    probability: 1
+  - name: Sanctuary
+    probability: 1
+  - name: Plunder
+    probability: 1
+  - name: Ancient Spire
+    probability: 1
+  - name: Dagger Tooth
+    probability: 1
+  - name: Galleon's Grave
+    probability: 1
+  - name: Morrow's Peak
+    probability: 1
+  - name: Pacific City
+    probability: 1
+  - name: New Providence
+    probability: 1
+  - name: City 17
+    probability: 1
+  - name: Black Mesa
+    probability: 1
+  - name: Ravenholm
+    probability: 1
+  - name: Nova Prospekt
+    probability: 1
+  - name: White Forest
+    probability: 1
+  - name: New Amsterdam
+    probability: 1
+  - name: Nivalis
+    probability: 1
+  - name: Tokyo-to
+    probability: 1
+  - name: Paradise
+    probability: 1
+  - name: Neo-Paris
+    probability: 1
+  - name: Fuusoku City
+    probability: 1
+  - name: Willamette
+    probability: 1
+  - name: Fortune City
+    probability: 1
+  - name: Los Perdidos
+    probability: 1
+  - name: Cadia
+    probability: 1
+  - name: Krieg
+    probability: 1
+  - name: Fenris
+    probability: 1
+  - name: Macragge
+    probability: 1
+  - name: Valhalla
+    probability: 1
+  - name: Green Hill
+    probability: 1
+  - name: Emerald Hill
+    probability: 1
+  - name: Hydrocity
+    probability: 1
+  - name: Sandopolis
+    probability: 1
+  - name: Studiopolis
+    probability: 1
+  - name: Kakariko
+    probability: 1
+  - name: Adia
+    probability: 1
+  - name: Araissi
+    probability: 1
+  - name: Galyanna
+    probability: 1
+  - name: Los Santos
+    probability: 1
+  - name: Grapeseed
+    probability: 1
+  - name: Sandy Shores
+    probability: 1
+  - name: Paleto Bay
+    probability: 1
+  - name: Fort Zancudo
+    probability: 1
+  - name: Liberty City
+    probability: 1
+  - name: Vice City
+    probability: 1
+  - name: Las Venturas
+    probability: 1
+  - name: San Fierro
+    probability: 1
+  - name: Stilwater
+    probability: 1
+  - name: Steelport
+    probability: 1
+  - name: Gotham City
+    probability: 1
+  - name: Metropolis
+    probability: 1
+  - name: Coruscant
+    probability: 1
+  - name: Mos Eisley
+    probability: 1
+  - name: Tipoca City
+    probability: 1
+  - name: Cloud City
+    probability: 1
+  - name: Night City
+    probability: 1
+  - name: New Vegas
+    probability: 1
+  - name: Novigrad
+    probability: 1
+  - name: Raccoon City
+    probability: 1
+  - name: Whiterun
+    probability: 1
+  - name: Midgar
+    probability: 1
+  - name: Rapture
+    probability: 1
+  - name: Columbia
+    probability: 1
+  - name: Dunwall
+    probability: 1
+  - name: Lavender Town
+    probability: 1
+  - name: Nuketown
+    probability: 1
+  - name: Saint Denis
+    probability: 1
+  - name: Simcity
+    probability: 1
+  - name: Silent Hill
+    probability: 1
+  - name: South Park
+    probability: 1
+  - name: Springfield
+    probability: 1
+  - name: Bourg Palette
+    probability: 1
+  - name: Carmin-sur-Mer
+    probability: 1
+  - name: Bikini Bottom
+    probability: 1
+  - name: Hurlevent
+    probability: 1
+  - name: Orgrimmar
+    probability: 1
+  - name: Fossoyeuse
+    probability: 1
+  - name: Lune-d'Argent
+    probability: 1
+  - name: Darnassus
+    probability: 1
+  - name: Forgefer
+    probability: 1
+  - name: Thunder Bluff
+    probability: 1
+  - name: La Citadelle
+    probability: 1
+name: Villes de jeux vidéo
+source: 81 noms. Villes de jeux vidéo principalement.
+subsets: []

@@ -1,4 +1,5 @@
-description: A new TrueGRF project
+description: Noms de villes fictives sélectionnées par LoupGaeru. Elles viennent majoritairement de jeux vidéo. Le 1er set comporte 81 noms. Le 2e set comporte uniquement des noms français de villes Pokemon, 129 au total.
 license: CC0-1.0
+name: LoupGaeru's video games and Pokemon town names
 type: townname
 version: 6

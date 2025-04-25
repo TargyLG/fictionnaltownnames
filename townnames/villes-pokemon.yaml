@@ -1,0 +1,265 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Bourg Palette
+    probability: 1
+  - name: Jadielle
+    probability: 1
+  - name: Argenta
+    probability: 1
+  - name: Azuria
+    probability: 1
+  - name: Carmin-sur-Mer
+    probability: 1
+  - name: Lavanville
+    probability: 1
+  - name: Céladopole
+    probability: 1
+  - name: Safrania
+    probability: 1
+  - name: Parmanie
+    probability: 1
+  - name: Cramois'Île
+    probability: 1
+  - name: Bourg Geon
+    probability: 1
+  - name: Ville Griotte
+    probability: 1
+  - name: Mauville
+    probability: 1
+  - name: Écorcia
+    probability: 1
+  - name: Doublonville
+    probability: 1
+  - name: Rosalia
+    probability: 1
+  - name: Oliville
+    probability: 1
+  - name: Irisia
+    probability: 1
+  - name: Acajou
+    probability: 1
+  - name: Ebenelle
+    probability: 1
+  - name: Bourg-en-Vol
+    probability: 1
+  - name: Rosyères
+    probability: 1
+  - name: Clémenti-Ville
+    probability: 1
+  - name: Mérouville
+    probability: 1
+  - name: Village Myokara
+    probability: 1
+  - name: Poivressel
+    probability: 1
+  - name: Lavandia
+    probability: 1
+  - name: Vergazon
+    probability: 1
+  - name: Autéquia
+    probability: 1
+  - name: Vermilava
+    probability: 1
+  - name: Cimetronelle
+    probability: 1
+  - name: Nénucrique
+    probability: 1
+  - name: Algatia
+    probability: 1
+  - name: Atalanopolis
+    probability: 1
+  - name: Pacifiville
+    probability: 1
+  - name: Éternara
+    probability: 1
+  - name: Bonaugure
+    probability: 1
+  - name: Littorella
+    probability: 1
+  - name: Féli-Cité
+    probability: 1
+  - name: Floraville
+    probability: 1
+  - name: Charbourg
+    probability: 1
+  - name: Vestigion
+    probability: 1
+  - name: Bonville
+    probability: 1
+  - name: Célestia
+    probability: 1
+  - name: Voilaroc
+    probability: 1
+  - name: Verchamps
+    probability: 1
+  - name: Unionpolis
+    probability: 1
+  - name: Joliberges
+    probability: 1
+  - name: Frimapic
+    probability: 1
+  - name: Rivamar
+    probability: 1
+  - name: Renouet
+    probability: 1
+  - name: Arabelle
+    probability: 1
+  - name: Ogoesse
+    probability: 1
+  - name: Maillard
+    probability: 1
+  - name: Volucité
+    probability: 1
+  - name: Méanville
+    probability: 1
+  - name: Port Yoneuve
+    probability: 1
+  - name: Parsemille
+    probability: 1
+  - name: Flocombe
+    probability: 1
+  - name: Janusia
+    probability: 1
+  - name: Entrelasque
+    probability: 1
+  - name: Vaguelone
+    probability: 1
+  - name: Ville Noire
+    probability: 1
+  - name: Forêt blanche
+    probability: 1
+  - name: Rotonbourg
+    probability: 1
+  - name: Pavonnay
+    probability: 1
+  - name: Amaillide
+    probability: 1
+  - name: Ondes-sur-mer
+    probability: 1
+  - name: Arpentières
+    probability: 1
+  - name: Papeloa
+    probability: 1
+  - name: Bourg Croquis
+    probability: 1
+  - name: Quarellis
+    probability: 1
+  - name: Neuvartault
+    probability: 1
+  - name: Illumis
+    probability: 1
+  - name: Fort-Vanitas
+    probability: 1
+  - name: Roche-sur-Gliffe
+    probability: 1
+  - name: Relifac-le-Haut
+    probability: 1
+  - name: Cromlac'h
+    probability: 1
+  - name: Yantreizh
+    probability: 1
+  - name: Port Tempères
+    probability: 1
+  - name: Romant-sous-Bois
+    probability: 1
+  - name: La Frescale
+    probability: 1
+  - name: Flusselles
+    probability: 1
+  - name: Mozheim
+    probability: 1
+  - name: Auffrac-les-Congères
+    probability: 1
+  - name: Batisques
+    probability: 1
+  - name: Paddoxton
+    probability: 1
+  - name: Brasswick
+    probability: 1
+  - name: Greenbury
+    probability: 1
+  - name: Skifford
+    probability: 1
+  - name: Motorby
+    probability: 1
+  - name: Old Chister
+    probability: 1
+  - name: Corrifey
+    probability: 1
+  - name: Ludester
+    probability: 1
+  - name: Smashings
+    probability: 1
+  - name: Kickenham
+    probability: 1
+  - name: Winscor
+    probability: 1
+  - name: Hameau Gelé
+    probability: 1
+  - name: Cuchalaga
+    probability: 1
+  - name: Plato Real
+    probability: 1
+  - name: Sevaro
+    probability: 1
+  - name: Mesaledo
+    probability: 1
+  - name: Cuencia
+    probability: 1
+  - name: Levalendura
+    probability: 1
+  - name: Mezcalmora
+    probability: 1
+  - name: Alforneira
+    probability: 1
+  - name: Jarramanca
+    probability: 1
+  - name: Porto Marinada
+    probability: 1
+  - name: Pinchoria
+    probability: 1
+  - name: Frigao
+    probability: 1
+  - name: Jaderaude
+    probability: 1
+  - name: Phenacit
+    probability: 1
+  - name: Pyrite
+    probability: 1
+  - name: Samaragd
+    probability: 1
+  - name: Suerebe
+    probability: 1
+  - name: Port-Amarée
+    probability: 1
+  - name: Printiville
+    probability: 1
+  - name: Automnelle
+    probability: 1
+  - name: Ilot-été
+    probability: 1
+  - name: Bourg-l'hiver
+    probability: 1
+  - name: Village Cocona
+    probability: 1
+  - name: Pentoblique
+    probability: 1
+  - name: Balnearia
+    probability: 1
+  - name: Bourg-Chicore
+    probability: 1
+  - name: Véterville
+    probability: 1
+  - name: Bonport
+    probability: 1
+  - name: Terruptive
+    probability: 1
+  - name: Village Alorize
+    probability: 1
+  - name: Cordis
+    probability: 1
+name: Villes Pokemon
+source: 129 noms. https://fr.wikipedia.org/wiki/Lieux_de_Pok%C3%A9mon
+subsets: []
